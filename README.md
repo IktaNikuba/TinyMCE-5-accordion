@@ -1,4 +1,4 @@
-# TinyMCE-5.--accordion
+# TinyMCE-5-accordion
 ## Документация к плагину "Accordion" для TinyMCE
 
 ### Описание
