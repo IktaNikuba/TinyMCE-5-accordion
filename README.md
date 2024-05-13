@@ -1,5 +1,5 @@
 # TinyMCE-5-accordion
-## Документация к плагину "Accordion" для TinyMCE
+## Документация к плагину "Accordion" для TinyMCE версии 5
 
 ### Описание
 
